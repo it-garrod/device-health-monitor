@@ -10,7 +10,7 @@ $TenantId = "25893136-718d-41e2-9817-8cd07ba8a0fc"
 $ClientId = "6cc9d032-be18-4d2c-ad99-1090735868a3"
 
 $Recipient = "it@garrod.ph"
-$Sender    = "laptop@garrod.ph"
+$Sender    = "laptops@garrod.ph"
 
 $ScriptVersion = "1.0.0"
 
